@@ -24,10 +24,10 @@
 
 He said the report was aimed at world leaders, who will meet in Copenhagen in December to negotiate a new international climate treaty.
 
-*he said the report*                      **主+谓+宾**
+*he said the report* 			&emsp;&emsp;&emsp;&emsp; **主+谓+宾**
 
-*was aimed at world leaders,*             前面的知识点，这里省略了引导词that，先行词是report，**宾语语从句**，was aimed at 谓语，world leaders宾语
+*was aimed at world leaders,*   &emsp;&emsp;&emsp;&emsp; 前面的知识点，这里省略了引导词that，先行词是report，**宾语语从句**，was aimed at 谓语，world leaders宾语
 
-*who will meet* 		**who 引导的非限制性定语从句**，leader 是先行词（主语），who 引导词，will meet in谓语，之后宾语
+*who will meet* 				&emsp;&emsp;&emsp;&emsp; **who 引导的非限制性定语从句**，leader 是先行词（主语），who 引导词，will meet in谓语，之后宾语
 
 *in Copenhagen in December to negotiate a new international climate treaty.*
