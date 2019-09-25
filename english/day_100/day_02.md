@@ -4,13 +4,13 @@
 
 #### 例子
 
-*Immigrants provide cheap labor,*		immigrants(主语), provide(谓语), labor(宾语); **主+谓+宾**结构
+*Immigrants provide cheap labor,*		&emsp;&emsp; immigrants(主语), provide(谓语), labor(宾语); **主+谓+宾**结构
 
-*lower prices of everything form*		lower(谓语), prices(宾语); **谓+宾**结构
+*lower prices of everything form*		&emsp;&emsp; lower(谓语), prices(宾语); **谓+宾**结构
 
 *farm product to new homes,*
 
-*and leave consumers with a little more*		leave(谓语), consumers(宾语), with a little more money(宾语补足语); **谓+宾+宾补**结构
+*and leave consumers with a little more*		&emsp;&emsp; leave(谓语), consumers(宾语), with a little more money(宾语补足语); **谓+宾+宾补**结构
 
 *money in thier pockets.*
 
