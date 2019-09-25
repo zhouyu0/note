@@ -1,6 +1,6 @@
 ### 并列句
 
-包含了两个并列结构的主句，两个主句都有完整的语法结构（相当于两个简单句），语意上并列，存在并列连词（and、but、yet....)，或者是分号（and，but等的功能）
+包含了两个并列结构的主句，两个主句都有完整的语法结构（相当于两个简单句），语意上并列，存在并列连词（and、but、yet....)，或者是分号（相当于and，but等的功能）
 
 #### 例子
 
@@ -19,3 +19,5 @@ money in thier pockets.
 #### 作业
 
 He said the report was aimed at world leaders, who will meet in Copenhagen in December to negotiate a new international climate treaty.
+
+答案看明天的例子
