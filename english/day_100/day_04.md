@@ -16,7 +16,7 @@
 
 #### 例子
 
-The figures  prompted  Oceana		&emsp;&emsp; **主+谓+宾**
+The figures prompted Oceana		&emsp;&emsp; **主+谓+宾**
 
 to petition the government 			&emsp;&emsp; **宾语补足语**
 
@@ -28,3 +28,5 @@ to upgrade the level of protection for the North Atlantic loggerheads from “th
 #### 作业
 
 The RA of two years added that while some conflicts "provided more multicultural acceptance and melding (融合),"  there were also "jarring cultural confrontations.".
+
+明天例子
