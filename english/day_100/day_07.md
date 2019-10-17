@@ -14,36 +14,39 @@
 
 ⑥Dunn says a lot of these young people are never going to get out from under their credit card debt. “Many people are borrowing on credit cards so heavily that payoff rates at these levels are not sufficient to recover their credit card debt by the end of their life, which could have loss implications for the credit card issuing banks.”
 
-61. What is the main idea of the first paragraph?       A
+61. What is the main idea of the first paragraph?      
 A) Many young Americans will never be able to pay off their debts.
 B) Credit cards play an increasingly important role in college life.
 C) Credit cards are doing more harm than student loans.
 D) The American credit card system is under criticism.
 
-62. Why do young people have to pay a higher interest on their credit card debt?	B
+62. Why do young people have to pay a higher interest on their credit card debt?	
 A) They tend to forget about the deadlines.
 B) They haven’t developed a credit history.
 C) They are often unable to pay back in time.
 D) They are inexperienced in managing money.
 
-63. What is said to be the consequence of young adults relying on credit cards to make ends meet? 	D
+63. What is said to be the consequence of young adults relying on credit cards to make ends meet? 
 A) It will place an unnecessary burden on society.
 B) It will give them no motivation to work hard.
 C) It will exert psychological pressure on them.
 D) It will affect their future spending power.
 
-64. What will happen to young adults if their credit card debt keeps accumulating according to Lucia Dunn?  B
+64. What will happen to young adults if their credit card debt keeps accumulating according to Lucia Dunn? 
 A) They will have to pay an increasingly higher interest rate.
 B) They may experience a financial crisis in their old age.
 C) Their quality of life will be affected.
 D) Their credit cards may be cancelled.
 
-65. What does Lucia Dunn think might be a risk for the credit card issuing banks? C
+65. What does Lucia Dunn think might be a risk for the credit card issuing banks? 
 A) They go bankrupt as a result of over-lending.
 B) They lose large numbers of their regular clients.
 C) Their clients leave their debts unpaid upon death.
 D) Their interest rates have to be reduced now and then.
 
+#### 答案
+
+61.A 62.B 63.D 64.B 65.C
 
 #### 参考译文
 

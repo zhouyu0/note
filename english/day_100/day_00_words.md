@@ -41,3 +41,31 @@ huge drag	巨大的阻力
 necessary		adj.必须的
 
 substantial		adj.大量的，重大的
+
+congress		n.国会
+
+concern			vt.影响，牵扯 n.担心，关心
+
+look for 		寻找
+
+acknowledge		vt.承认
+
+critical		adj.坚定的，决定性的
+
+assert			vt.断言，维护
+
+remain		vi.保持，依然 n.遗留，残骸
+
+enrich		vt.使充实 enrichment丰富
+
+invest		vt.投资
+
+heavily		adv.大量的
+
+graduate	n.毕业生 v.大学毕业
+
+prospect	n.前途 v.勘探
+
+chance		n.机会
+
+well-rounded		全面
