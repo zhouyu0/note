@@ -69,3 +69,14 @@ prospect	n.前途 v.勘探
 chance		n.机会
 
 well-rounded		全面
+
+energy				n.能源，精力
+
+decades		几十年
+
+economy			n.经济，理财
+
+waste		n.浪费 v.浪费
+
+destruct		n.毁坏 v.毁坏
+
