@@ -109,3 +109,7 @@ cheapen																	vt. 减去…的价格；贬低 vi. 减价；跌价
 exercise																n. 运动；练习 v. 锻炼；练习
 
 tear 																	v. 撕掉，扯下；撕破；拔掉；拉伤 n. 眼泪
+
+expect																	v. 期望；指望；
+
+skin																	n. 皮肤；外皮 vt. 剥皮 vi. 愈合；长皮
