@@ -40,7 +40,7 @@ huge drag																巨大的阻力
 
 necessary																adj.必须的
 
-substantial																adj.大量的，重大的
+substantial																adj.大量的，重大的 n. 本质；重要材料
 
 congress																n.国会
 
@@ -97,3 +97,15 @@ after all																毕竟；终究
 cheap																	adj. 便宜的；小气的
 
 strict																	adj. 严格的；绝对的；精确的；详细的
+
+stress																	n. 压力；强调；紧张 vt. 强调；使紧张
+
+harmful																	adj. 有害的；能造成损害的
+
+essential																adj. 基本的；必要的；本质的；精华的 n. 本质；要素；要点；必需品
+
+cheapen																	vt. 减去…的价格；贬低 vi. 减价；跌价
+
+exercise																n. 运动；练习 v. 锻炼；练习
+
+tear 																	v. 撕掉，扯下；撕破；拔掉；拉伤 n. 眼泪
