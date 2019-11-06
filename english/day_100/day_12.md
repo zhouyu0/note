@@ -8,31 +8,31 @@
 
 ④The good news is that a combination of sunscreen and covering up can reduce melanoma rates, as shown by Australian figures from their slip-slop-slap campaign.So if there is a heat wave this summer, it would be best for us, too, to slip on a shirt, slop on (抹上)sunscreen and slap on a hat.
 
-56.What is people's common expectation of a high-factor sunscreen?				B
+56.What is people's common expectation of a high-factor sunscreen?		
 A.It will delay the occurrence of skin cancer.
 B.It will protect them from sunburn.
 C.It will keep their skin smooth and fair.
 D.It will work for people of any skin color.
 
-57.What does the research in Nature say about a high-factor sunscreen?			C A
+57.What does the research in Nature say about a high-factor sunscreen?			
 A.It is ineffective in preventing melanomas.
 B.It is ineffective in case of intense sunlight.
 C.It is ineffective with long-term exposure.
 D.It is ineffective for people with fair skin.
 
-58.What do we learn from the 2011 Australian study of 1,621 people?				D
+58.What do we learn from the 2011 Australian study of 1,621 people?		
 A.Sunscreen should be applied alongside other protection measures.
 B.High-risk people benefit the most from the application of sunscreen.
 C.Irregular application of sunscreen does women more harm than good.
 D.Daily application of sunscreen helps reduce the incidence of melanomas.
 
-59.What does the author say about the second Australian study?					A C
+59.What does the author say about the second Australian study?				
 A.It misleads people to rely on sunscreen for protection.
 B.It helps people to select the most effective sunscreen.
 C.It is not based on direct observation of the subjects.
 D.It confirms the results of the first Australian study.
 
-60.What does the author suggest to reduce melanoma rates?						A
+60.What does the author suggest to reduce melanoma rates?			
 A.Using both covering up and sunscreen.
 B.Staying in the shade whenever possible.
 C.Using covering up instead of sunscreen.

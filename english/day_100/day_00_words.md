@@ -113,3 +113,27 @@ tear 																	v. 撕掉，扯下；撕破；拔掉；拉伤 n. 眼泪
 expect																	v. 期望；指望；
 
 skin																	n. 皮肤；外皮 vt. 剥皮 vi. 愈合；长皮
+
+Tap into																利用，开发
+
+cultivated																adj. 用于耕种的；有教养的；栽培的，培植的
+
+divide																	v. （使）分开，分成；n. 分歧，差异；
+
+well off																富裕的；处境好的
+
+skill																	n. 技能，技巧；本领，技术
+
+squeeze																	v. 挤；紧握；勒索；压榨；使挤进；n. 挤压；压榨；
+
+persuade																vt. 说服，劝说；vi. 说服；被说服
+
+pension																	n. 退休金，抚恤金 vt. 发给养老金或抚恤金
+
+budget																	n. 预算，预算费 v.预定 编预算，做预算 adj. 廉价的
+
+reinforce																vt. 加强，加固；强化；补充 n. 加强
+
+complement																n. 补语；余角；补足物 vt. 补足，补助
+
+decline																	n. 下降；衰退；斜面 vi. 下降；衰落；谢绝 vt. 谢绝；婉拒

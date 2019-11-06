@@ -26,13 +26,28 @@ if you don't at least ask for it.
 然而，有一点是肯定的；如果你连要求都不提的话，你涨工资的机会就会比你预期要小。
 
 
+#### day 02
 
+**原文：**
 
+regardless of how it's sold, the popularity of bottled water taps into the desire for better health, our wish appear cultivated, and even a longging for lost purity.
 
+**解析：**
 
+句子主干：
+**regardless of how it's sold**, the popularity of
 
+让步状语从句：
+bottled water taps into the desire for
 
+tap into后面接了三个宾语：
+better health,
+our wish appear cultivated,
+*and* even a longing for lost purity.
 
+**翻译：**
+
+且不论销售手段，瓶装水通过满足人们对健康的渴望，对于看起来有教养的心愿，以及那一份对于久违了的纯净的渴望而备受人们欢迎。
 
 
 
