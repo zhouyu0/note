@@ -137,3 +137,11 @@ reinforce																vt. 加强，加固；强化；补充 n. 加强
 complement																n. 补语；余角；补足物 vt. 补足，补助
 
 decline																	n. 下降；衰退；斜面 vi. 下降；衰落；谢绝 vt. 谢绝；婉拒
+
+wallet																	n.钱包
+
+extinct																	adj. 灭绝的，绝种的；熄灭的 vt. 使熄灭
+
+earn																	vt. 赚，赚得；获得，挣得；使得到；博得
+
+weird																	adj. 怪异的；不可思议的；超自然的 n. （苏格兰）命运；预言
