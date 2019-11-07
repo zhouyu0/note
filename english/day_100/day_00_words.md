@@ -145,3 +145,49 @@ extinct																	adj. 灭绝的，绝种的；熄灭的 vt. 使熄灭
 earn																	vt. 赚，赚得；获得，挣得；使得到；博得
 
 weird																	adj. 怪异的；不可思议的；超自然的 n. （苏格兰）命运；预言
+
+embrace																	n. 拥抱 v. 拥抱
+
+explain																	v. 说明；解释
+
+neighborhood															n. 附近；街坊；接近；街区
+
+varies																	n. 多重复合 v. 使不同；改变；违背
+
+culture																	n. 文化，文明；修养；栽培
+
+bedtime																	n.就寝时间
+
+hit the hay 															睡觉
+
+conscious																adj. 意识到的；故意的；神志清醒的
+
+swing																	v. 摇摆；悬挂 n. 摇摆；明显改变
+
+avoid																	vt. 避免；避开，躲避；消除
+
+professor																n. 教授；教师；公开表示信仰的人
+
+figure 																	n. 数字；人物；图形 vi. 计算；出现；
+
+properly																adv. 适当地；正确地；恰当地
+
+bring up																教养，bring过去（式）分词brought
+
+ill breed																没有教养，breed过去（式）分词bred
+
+brew																	v. 酿造；泡茶，煮咖啡；酝酿 n. 啤酒；一杯茶（或咖啡)
+
+careless																adj,粗心的
+
+currect																	adj.正确的；恰当的；端正的 v. 改正；批改,调整（数据）
+
+course																	n. 科目；课程；过程 v. 追赶 指引航线
+
+present																	adj. 现在的；出席的；n. 礼物；现在，目前；v. 颁发；赠送；
+
+decide																	vt. 决定；解决；判决vi. 决定，下决心
+
+exact																	adj. 准确的，精密的；精确的
+
+ethical																	adj. 伦理的；道德的；凭处方出售的 n. 处方药

@@ -9,7 +9,7 @@
 　　But I’ll leave the economics to the experts. What bothers me about the death of the wallet is the change it represents in our physical environment. Everything about the look and feel of a wallet—the way the fastenings and materials wear and tear and loosen with age, the plastic and paper and gold and silver, and handwritten phone numbers and printed cinema tickets—is the very opposite of what our world is becoming. The opposite of a wallet is a smartphone of an iPad. The rounded edges, cool glass, smooth and unknowable as pebble (鹅卵石). Instead of digging through pieces of paper and peering into corners, we move our fingers left and right. No more counting out coins. Show your wallet, if you still have one. It may not be here much longer.
 
 
-56.What is happening to the wallet?	A
+56.What is happening to the wallet?	
 A) It is disappearing.
 B) It is being fattened. 
 C) it is becoming costly.
