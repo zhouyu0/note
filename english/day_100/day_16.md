@@ -1,6 +1,6 @@
-### 2016-6（Ⅰ） 四级			22
+### 2016-6（Ⅰ） 四级
 
-#### wen
+#### 原文
 
 1. As Artificial Intelligence (AI) becomes increasingly sophisticated, there are growing concerns that robots could become a threat. This danger can be avoided, according to computer science professor Stuart Russell, if we figure out how to turn human values into a programmable code.
 
@@ -24,7 +24,7 @@
 
 
 
-46. What does the author say about the threat of robots?				D
+46. What does the author say about the threat of robots?
 
 A) It may constitute a challenge to computer programmers.
 
@@ -36,7 +36,7 @@ D) It has become an inevitable peril as technology gets more sophisticated.
 
 
 
-47. What would we think of a person who invades our personal space according to the author? A
+47. What would we think of a person who invades our personal space according to the author? 
 
 A) They are aggressive.
 
@@ -48,7 +48,7 @@ D) They are ill-bred.
 
 
 
-48. How do robots learn human values?  C
+48. How do robots learn human values?  
 
 A) By interacting with humans in everyday life situations.
 
@@ -60,7 +60,7 @@ D) By imitating the behavior of properly brought-up human beings.
 
 
 
-49. What will a well-programmed robot do when facing an unusual situation?   D
+49. What will a well-programmed robot do when facing an unusual situation?   
 
 A) Keep a distance from possible dangers.
 
@@ -72,7 +72,7 @@ D) Do sufficient testing before taking action.
 
 
 
-50. What is most difficult to do when we turn human values into a programmable code?   A
+50. What is most difficult to do when we turn human values into a programmable code?   
 
 A) Determine what is moral and ethical.
 

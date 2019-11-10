@@ -1,6 +1,6 @@
 ### Listen & Copy - part 01
 
-#### day 01
+#### Exercise 01
 
 **原文：**
 
@@ -26,7 +26,7 @@ if you don't at least ask for it.
 然而，有一点是肯定的；如果你连要求都不提的话，你涨工资的机会就会比你预期要小。
 
 
-#### day 02
+#### Exercise 02
 
 **原文：**
 
@@ -48,6 +48,9 @@ our wish appear cultivated,
 **翻译：**
 
 且不论销售手段，瓶装水通过满足人们对健康的渴望，对于看起来有教养的心愿，以及那一份对于久违了的纯净的渴望而备受人们欢迎。
+
+
+#### Exercise 03
 
 
 
