@@ -22,21 +22,15 @@ consequence																n.结果
 
 adult																	n.成年人 adj.成年的
 
-make ends meet 															维持生计，收支平衡
-
 debt																	n.债务
 
 barely																	adv.仅仅，刚刚
-
-knocking back															拒绝
 
 broke																	n.破产，没钱 v.破坏，裂，碎
 
 sustain																	v.维持
 
 huge																	adj.巨大的
-
-huge drag																巨大的阻力
 
 necessary																adj.必须的
 
@@ -45,8 +39,6 @@ substantial																adj.大量的，重大的 n. 本质；重要材料
 congress																n.国会
 
 concern																	vt.影响，牵扯 n.担心，关心
-
-look for 																寻找
 
 acknowledge																vt.承认
 
@@ -67,8 +59,6 @@ graduate																n.毕业生 v.大学毕业
 prospect																n.前途 v.勘探
 
 chance																	n.机会
-
-well-rounded															全面
 
 energy																	n.能源，精力
 
@@ -92,8 +82,6 @@ accident																n. 事故；意外；[法] 意外事件；机遇
 
 elaborate																adj. 精心制作的 v. 精心制作
 
-after all																毕竟；终究
-
 cheap																	adj. 便宜的；小气的
 
 strict																	adj. 严格的；绝对的；精确的；详细的
@@ -114,13 +102,9 @@ expect																	v. 期望；指望；
 
 skin																	n. 皮肤；外皮 vt. 剥皮 vi. 愈合；长皮
 
-Tap into																利用，开发
-
 cultivated																adj. 用于耕种的；有教养的；栽培的，培植的
 
 divide																	v. （使）分开，分成；n. 分歧，差异；
-
-well off																富裕的；处境好的
 
 skill																	n. 技能，技巧；本领，技术
 
@@ -158,8 +142,6 @@ culture																	n. 文化，文明；修养；栽培
 
 bedtime																	n.就寝时间
 
-hit the hay 															睡觉
-
 conscious																adj. 意识到的；故意的；神志清醒的
 
 swing																	v. 摇摆；悬挂 n. 摇摆；明显改变
@@ -171,10 +153,6 @@ professor																n. 教授；教师；公开表示信仰的人
 figure 																	n. 数字；人物；图形 vi. 计算；出现；
 
 properly																adv. 适当地；正确地；恰当地
-
-bring up																教养，bring过去（式）分词brought
-
-ill breed																没有教养，breed过去（式）分词bred
 
 brew																	v. 酿造；泡茶，煮咖啡；酝酿 n. 啤酒；一杯茶（或咖啡)
 
@@ -191,3 +169,10 @@ decide																	vt. 决定；解决；判决vi. 决定，下决心
 exact																	adj. 准确的，精密的；精确的
 
 ethical																	adj. 伦理的；道德的；凭处方出售的 n. 处方药
+
+decision																n. 决定，决心；决议
+
+conventional															adj. 符合习俗的，传统的；常见的；惯例的
+
+merry																	adj. 愉快的；微醉的；嬉戏作乐的
+

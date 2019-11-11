@@ -74,3 +74,41 @@ These *rules* say them must *value some assets* at the price a third party would
 **翻译**
 
 这些规则指出银行必须按照（市场上）第三方的出价来评估一些资产，而不是按照价格经理和监管机构想要获得的价格来评估。
+
+
+#### Exercise 06
+
+To get the \_\_\_\_ working again, losses must be \_\_\_\_ and \_\_\_\_ \_\_\_\_.
+
+**答案**
+
+To get the system working again, losses must be recognized and dealt with.
+
+**翻译**
+
+如果想要系统重新运作，必须确认和处理亏损。
+
+#### Exercise 07
+
+The \_\_\_\_ to quit a \_\_\_\_ \_\_\_\_ to look for a better one is \_\_\_\_.
+
+**答案**
+
+The decision to quit a senior position to look for a better one is unconventional.
+
+**翻译**
+
+离开高管的位置（之后）再去寻找一个更好的职位，这并不是传统的做法。
+
+#### Exercise 08
+
+Whose who \_\_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_\_haven't always \_\_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_\_ quickly.
+
+**答案**
+
+Whose who jumped without a job haven't always landed in top positions quickly. 
+
+**翻译**
+
+那些裸辞的人，并不一定总能很快就找到较高的职位。
+

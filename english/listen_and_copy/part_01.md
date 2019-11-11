@@ -52,21 +52,28 @@ our wish appear cultivated,
 
 #### Exercise 03
 
+**原文**
 
+This is a merry-go-round that's going very fast, and none of the institutions believe they can sustain the risks of trying break away by themselves.
 
+**解析：**
 
+主干1:
 
+This（主语） is（系动词） a merry-go-round（表语）
 
+that‘s going very fast（定语从句）
 
+and（并列连词）
 
+主干2:
 
+none of the institutions(主句) believe(谓语)
 
+(that)they can sustain the risks of trying break away by themselves(宾语从句)
 
+**翻译：**
 
+*技巧：定语从句采用前置法，放在被修饰的先行词前面；宾语从句采用顺译法按照原文语序摆放即可*
 
-
-
-
-
-
-
+这就像一个转得飞快的旋转木马，没有任何一个学校认为他们可以承担单独行动的风险。
