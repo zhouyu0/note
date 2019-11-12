@@ -194,3 +194,33 @@ positive																adj. 积极的；[数] 正的 n. 正数；[摄] 正片
 
 cautious																adj. 谨慎的；十分小心的
 
+renovate                                                                vt. 更新；修复；革新；刷新
+
+potato                                                                  n. [作物] 土豆，[作物] 马铃薯
+
+farm                                                                    n. 农场；农舍；养殖场 v. 种田，务农，farmer农民 farming农业
+
+reliance                                                                n. 信赖；信心；受信赖的人或物
+
+disease                                                                 n. 病，[医] 疾病；弊病 vt. 传染；使…有病
+
+plant                                                                   n. 工厂，车间；植物 v. 种植
+
+diet                                                                    n. 饮食；食物；规定饮食 vi. 节食
+
+expand                                                                  vt. 扩张；使膨胀；详述 vi. 发展；张开，展开
+
+durable                                                                 adj. 耐用的，持久的 n. 耐用品
+
+wells                                                                   n. 井；源泉（well的复数）v. 涌出（well的第三人称单数）
+
+reach                                                                   vi. 达到；延伸; vt. 达到；影响；n. 范围；延伸；河段；
+
+triple                                                                  adj. 三倍的；三方的 n. 三倍数；三个一组 v. 三倍
+
+deem                                                                    vt. 认为，视作；相信 vi. 认为，持某种看法；作某种评价
+
+gradual                                                                 adj. 逐渐的；平缓的
+
+undergo                                                                 vt. 经历，经受；忍受
+
