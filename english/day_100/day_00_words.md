@@ -176,3 +176,21 @@ conventional															adj. 符合习俗的，传统的；常见的；惯例
 
 merry																	adj. 愉快的；微醉的；嬉戏作乐的
 
+expert																	n. 专家；行家；能手 adj. 熟练的；内行的 v. 当专家
+
+fall																	v. 落下；跌倒；下垂 n. 落下；跌倒；下垂 adj. 秋天的
+
+commodity																n. 商品，货物；日用品
+
+reserve																	n. 储备（量）；自然保护区v. 预订（座位等）；储备；拥有
+
+plunge																	v. 使突然地下落；猛插；骤降；n. 突然跌落；（价格、数量等）骤降；投入；跳进
+
+overwhelm																vt. 淹没；压倒；受打击；覆盖；压垮
+
+negative																adj. [数] 负的；消极的；否定的；阴性的n. 否定；负数；[摄] 底片vt. 否定；拒绝
+
+positive																adj. 积极的；[数] 正的 n. 正数；[摄] 正片
+
+cautious																adj. 谨慎的；十分小心的
+
