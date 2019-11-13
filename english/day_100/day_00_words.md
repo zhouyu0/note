@@ -224,3 +224,22 @@ gradual                                                                 adj. 逐
 
 undergo                                                                 vt. 经历，经受；忍受
 
+dull																	adj.迟钝的；无趣的 vt. 使迟钝；vi. 变迟钝
+
+concentration															n. 浓度；集中；浓缩；专心；集合
+
+engage																	vt. 吸引，占用；使参加；雇佣；使订婚；预定 
+
+pronunciation															n. 发音；读法
+
+romantic																adj. 浪漫的；多情的；空想的 n. 浪漫的人 vt. 使…浪漫化
+
+princess																n. 公主；王妃；女巨头
+
+gorgeous																adj. 华丽的，灿烂的；极好的
+
+tourist																	n. 旅行者，观光客 adj. 旅游的vt. 在旅行参观vi. 旅游；观光
+
+especial																adj. 特殊的，特别的
+
+dishes																	n. 菜肴；餐具（dish的复数）
