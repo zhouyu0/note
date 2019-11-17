@@ -243,3 +243,21 @@ tourist																	n. 旅行者，观光客 adj. 旅游的vt. 在旅行参�
 especial																adj. 特殊的，特别的
 
 dishes																	n. 菜肴；餐具（dish的复数）
+
+medicine																n. 药；医学；内科；巫术 vt. 用药物治疗；给…用药
+
+witness																	n. 证人；目击者；证据 vt. 目击；证明；为…作证 vi. 作证人
+
+escape																	v. 逃脱；避开；n. 逃跑；逃亡
+
+snake																	n. 蛇；阴险的人 vi. 迂回前进
+
+wit 																	n. 智慧；才智；智力
+
+knees																	[解剖] 膝
+
+conduce																	vi. 导致；有益，有贡献于
+
+complex																	adj. 复杂的；合成的 n. 复合体；综合设施
+
+optimistic																adj. 乐观的；乐观主义的
