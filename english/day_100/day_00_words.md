@@ -261,3 +261,11 @@ conduce																	vi. 导致；有益，有贡献于
 complex																	adj. 复杂的；合成的 n. 复合体；综合设施
 
 optimistic																adj. 乐观的；乐观主义的
+
+damage																	n. 损害；损毁；赔偿金 vi. 损害；损毁 vt. 损害，毁坏
+
+relate																	vt. 叙述；使…有联系 vi. 涉及；认同；符合；与…有某种联系
+
+undermine																vt. 破坏，渐渐破坏；挖掘地基
+
+exclusive																adj. 独有的；排外的；专一的 n. 独家新闻；独家经营的项目；排外者
