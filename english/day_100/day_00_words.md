@@ -269,3 +269,32 @@ relate																	vt. 叙述；使…有联系 vi. 涉及；认同；符合
 undermine																vt. 破坏，渐渐破坏；挖掘地基
 
 exclusive																adj. 独有的；排外的；专一的 n. 独家新闻；独家经营的项目；排外者
+
+nervous																	adj. 神经的；紧张不安的；强健有力的
+
+protest																	n. 抗议，反对；拒付证书 v. 抗议，反对
+
+especial																adj. 特殊的，特别的
+
+marvelous																adj. 了不起的；非凡的；令人惊异的；不平常的
+
+threngthen																vt. 加强；巩固 vi. 变强；变坚挺
+
+resident																n. 居民；（旅店）房客；住院医生 adj.	居住的
+
+fruitful																adj. 富有成效的；多产的；果实结得多的
+
+clever																	adj. 聪明的；机灵的；熟练的
+
+cabinet																	n. 内阁；橱柜；adj. 内阁的；私下的，秘密的
+
+shake																	vt. 动摇；摇动；震动；握手 vi. 动摇；摇动；发抖 n. 摇动；哆嗦
+
+dive 																	v. 潜水，n. 潜水，
+
+contented																adj. 满足的；心安的 v. 使…满足；使…安心
+
+sad 																	adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）
+
+born																	v. 出生；出现（bear 的过去分词）adj. 天生的；出生的；天赋的；创造的
+
