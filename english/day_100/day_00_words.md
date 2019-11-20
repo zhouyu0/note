@@ -298,3 +298,17 @@ sad 																	adj. 难过的；悲哀的，令人悲痛的；凄惨的，
 
 born																	v. 出生；出现（bear 的过去分词）adj. 天生的；出生的；天赋的；创造的
 
+roughly																	adv. 粗糙地；概略地
+
+shelf																	n. 架子；搁板；搁板状物；暗礁
+
+territory																n. 领土，领域；范围；地域；版图
+
+preference																n. 偏爱，倾向；优先权
+
+demand																	n. 要求; 需求 v. 强烈要求；需要；逼问
+
+formulate																vt. 规划；用公式表示；明确地表达
+
+intensify																vi. 增强，强化；变激烈 vt. 使加强，使强化；使变激烈
+
