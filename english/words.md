@@ -312,3 +312,39 @@ formulate																vt. 规划；用公式表示；明确地表达
 
 intensify																vi. 增强，强化；变激烈 vt. 使加强，使强化；使变激烈
 
+finger																	n. 手指；指针，指状物 vt. 伸出；用手指拨弄 vi. 用指触摸；拨弄
+
+dishes																	n. 菜肴；餐具（dish的复数）
+
+nutritious																adj. 有营养的，滋养的
+
+essential																adj. 基本的；必要的；本质的；精华的 n. 本质；要素；要点；必需品
+
+quite																	adv. 很；相当；完全
+
+costly																	adj. 昂贵的；代价高的
+
+risky																	adj. 危险的；冒险的；（作品等）有伤风化的
+
+damage																	n. 损害；损毁；赔偿金 vi. 损害；损毁 vt. 损害，毁坏
+
+radiation																n. 辐射；放射物
+
+material																n. 材料；用具；adj. 物质的；身体需要的；
+
+possibility																n. 可能性；可能发生的事物
+
+settle																	vi. 解决；定居；沉淀；下陷 vt. 解决；安排；使…定居
+
+gradually																adv. 逐步地；渐渐地
+
+timely																	adj. 及时的；适时的 adv. 及时地；早
+
+emphasis																n. 重点；强调；加强语气
+
+particular																adj. 特别的；详细的；独有的；挑剔的 n. 详细说明；个别项目
+
+intimate																adj. 亲密的；私人的；精通的；有性关系的 n. 知己；至交 vt. 暗示；通知；宣布
+
+situation																n. 情况；形势；处境；位置
+
