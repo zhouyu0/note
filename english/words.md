@@ -348,3 +348,39 @@ intimate																adj. 亲密的；私人的；精通的；有性关系的
 
 situation																n. 情况；形势；处境；位置
 
+bottle																	n. 瓶子；一瓶的容量 vt. 控制；把…装入瓶中
+
+gratitude																n. 感谢（的心情）；感激
+
+kindness																n. 仁慈；好意；友好的行为
+
+disease																	n. 病，[医] 疾病；弊病 vt. 传染；使…有病
+
+inadequate																adj. 不充分的，不适当的
+
+military																adj. 军事的；军人的；适于战争的 n. 军队；军人
+
+flies																	n. 苍蝇（fly的复数） v. 飞行；时间飞逝；
+
+commercial																adj. 商业的；营利的；靠广告收入的 n. 商业广告
+
+jet																		n. 喷射，喷嘴；喷气式飞机 v. 射出；[航] 乘喷气式飞机
+
+theatre																	n. 电影院，戏院；戏剧；阶梯式讲堂
+
+fit 																	vt. 安装；使……适应；使……合身；与……相符 vi. 符合，配合；适合；合身 adj. 健康的；合适的；恰当的；准备好的 n. 合身；发作；痉挛
+
+nervous																	adj. 神经的；紧张不安的；强健有力的
+
+pick																	vi. 挑选；采摘；挖 vt. 拾取；精选；采摘；掘 n. 选择；鹤嘴锄；挖；掩护
+
+
+roommate																n. 室友
+
+discover																vt. 发现；发觉 vi. 发现
+
+thirsty																	adj. 口渴的，口干的；渴望的，热望的
+
+troop																	n. 军队；组；群；多数 vi. 群集；成群而行；结队 vt. 把（骑兵）编成骑兵连
+
+
