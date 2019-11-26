@@ -383,4 +383,21 @@ thirsty																	adj. 口渴的，口干的；渴望的，热望的
 
 troop																	n. 军队；组；群；多数 vi. 群集；成群而行；结队 vt. 把（骑兵）编成骑兵连
 
+appearence																n. 外貌，外观；出现，露面
+
+outstanding																adj. 杰出的；显著的；未解决的；未偿付的
+
+distant																	adj. 遥远的；冷漠的；远隔的；不友好的，冷淡的
+
+experiment																n. 实验，试验；尝试 v. 尝试；试验；进行实验
+
+trade																	n. 贸易，交易；行业；职业 vi. 交易，买卖；以物易物 vt. 用……进行交换
+
+glimpse																	n. 一瞥，一看 vi. 瞥见 vt. 瞥见
+
+ambitious																adj. 野心勃勃的；有雄心的；热望的；炫耀的
+
+accomplishment															n. 成就；完成；技艺，技能
+
+fundamental																adj. 基本的，根本的 n. 基本原理；基本原则
 
