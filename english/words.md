@@ -401,3 +401,26 @@ accomplishment															n. 成就；完成；技艺，技能
 
 fundamental																adj. 基本的，根本的 n. 基本原理；基本原则
 
+hunt																	v. 打猎；搜索；追 n. 搜寻；打猎；
+
+account																	n. 账户；解释；账目，账单；理由；描述 vi. 解释；导致；报账 vt. 认为；把…视为
+
+turn out 																v.（以某种方式）发生；最后是，结果是
+
+mastery																	n. 掌握；精通；优势；征服；统治权
+
+characteristic															adj. 典型的；特有的；表示特性的 n. 特征；特性；特色
+
+babies																	n. 婴儿（baby的复数）
+
+potential																adj. 潜在的，可能的；势的 n. 潜能，可能性；电势
+
+impair																	vt. 损害；削弱；减少
+
+mobility																n. 移动性；机动性；[电子] 迁移率
+
+situation																n. 情况；形势；处境；位置
+
+political																adj. 政治的；党派的
+
+dissatisfaction															n. 不满；令人不满的事物
