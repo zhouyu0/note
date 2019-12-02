@@ -424,3 +424,12 @@ situation																n. 情况；形势；处境；位置
 political																adj. 政治的；党派的
 
 dissatisfaction															n. 不满；令人不满的事物
+
+remedy																	n. 补救；疗法；解决办法；（硬币的）公差 v. 补救，纠正，改进；治疗
+
+hesitant																adj. 迟疑的；踌躇的；犹豫不定的 (hasitate v.)
+
+pressure																n. 压力；压迫，[物] 压强 vt. 迫使；密封；使……增压
+
+lessen																	vt. 使…变小；使…减轻；使…变少 vi. 减少；减轻；变小
+
