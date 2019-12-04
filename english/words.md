@@ -433,3 +433,15 @@ pressure																n. 压力；压迫，[物] 压强 vt. 迫使；密封；
 
 lessen																	vt. 使…变小；使…减轻；使…变少 vi. 减少；减轻；变小
 
+bacteria																n. [微] 细菌
+
+earliest																adj. 早的；初期的 n. 最早
+
+amount																	n. 数量，数额；总数；v. 总计，合计；
+
+contaminate																vt. 污染，弄脏
+
+utensil																	n. 用具，器皿
+
+dirt																	n. 污垢，泥土；灰尘，尘土；下流话
+
