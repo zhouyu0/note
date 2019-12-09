@@ -25,3 +25,5 @@ ill breed																没有教养，breed过去（式）分词bred
 a soda can 																汽水罐
 
 make clear																显示；解释清楚
+
+look forward															期待；盼望

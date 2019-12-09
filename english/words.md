@@ -445,3 +445,41 @@ utensil																	n. 用具，器皿
 
 dirt																	n. 污垢，泥土；灰尘，尘土；下流话
 
+inch																	n. 英寸；身高；少许
+
+laid																	v. 放；铺设；安排（lay的过去分词）
+
+lack																	n. 缺乏，不足 v. 缺乏，不足
+
+inadequate																adj. 不充分的，不适当的
+
+endless																	adj. 无止境的；连续的；环状的；漫无目的的
+
+continuous																adj. 连续的，持续的；继续的；连绵不断的
+
+hazard																	n. 危险，风险；冒险的事；机会
+
+evidence																n. 危险，风险；冒险的事；机会
+
+hunter																	n. 猎人；猎犬；搜寻者
+
+glad																	adj. 高兴的；乐意的 vt. 使......高兴
+
+attitude																n. 态度；看法；意见；姿势
+
+uphold																	vt. 支撑；鼓励；赞成；举起
+
+clarity																	n. 清楚，明晰；透明
+
+intention																n. 意图；目的；意向；愈合
+
+formulate																vt. 规划；用公式表示；明确地表达
+
+ancient																	adj. 古代的；古老的，过时的；年老的 n. 古代人；老人
+
+wisdom																	n. 智慧，才智；明智；学识；至理名言
+
+applicable																adj. 可适用的；可应用的；合适的
+
+
+
